@@ -1,0 +1,25 @@
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:red;
+}
+body{
+    background-image:url(../img/vino\ fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.imgvinos{
+height: 400px;
+width: 400px;
+
+}.titulovino{
+font-size: 500px;
+}
